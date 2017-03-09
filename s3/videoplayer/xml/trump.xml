@@ -4,7 +4,7 @@
 	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JimFallon.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JimFallon.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JimFallon.jpg">
 		<title>Jim Fallon: Exploring the mind of a killer</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 		<genres>Clip</genres>
 		<runtime>1260</runtime>
 	</item>	
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/DanGilbert.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/DanGilbert.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DanGilbert.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DanGilbert.jpg">
 		<title>Dan Gilbert asks, Why are we happy?</title>
 		<contentId>10002</contentId>
 		<contentType>Talk</contentType>
@@ -34,7 +34,7 @@
 		<genres>Technology</genres>
 		<runtime>1280</runtime>
 	</item>	
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/VSRamachandran.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/VSRamachandran.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/VSRamachandran.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/VSRamachandran.jpg">
 		<title>VS Ramachandran on your mind</title>
                 <contentId>10003</contentId>
                 <contentType>Talk</contentType>

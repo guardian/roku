@@ -4,7 +4,7 @@
 	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/JeffHan.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JeffHan.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JeffHan.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JeffHan.jpg">
 		<title>Jeff Han demos his breakthrough touchscreen</title>
 		<contentId>10061</contentId>
 		<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 		<genres>Design</genres>
 		<runtime>531</runtime>
 	</item>	
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/DavidKelley.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/DavidKelley.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DavidKelley.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DavidKelley.jpg">
 		<title>David Kelley on human-centered design</title>
 		<contentId>10062</contentId>
 		<contentType>Talk</contentType>
@@ -34,7 +34,7 @@
 		<genres>Design</genres>
 		<runtime>1024</runtime>
 	</item>
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/YvesBehar.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/YvesBehar.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/YvesBehar.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/YvesBehar.jpg">
                 <title>Yves Behar on designing objects that tell stories</title>
                 <contentId>10063</contentId>
                 <contentType>Talk</contentType>
@@ -49,7 +49,7 @@
                 <genres>Design</genres>
                 <runtime>1066</runtime>
         </item>
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/SamMartin.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/SamMartin.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/SamMartin.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/SamMartin.jpg">
                 <title>Sam Martin: The quirky world of 'manspaces'</title>
                 <contentId>10064</contentId>
                 <contentType>Talk</contentType>

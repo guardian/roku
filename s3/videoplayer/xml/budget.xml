@@ -4,7 +4,7 @@
 	<resultLength>4</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>4</endIndex>
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/AlGore.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/AlGore.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/AlGore.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/AlGore.jpg">
 		<title>Al Gore warns on latest climate trends</title>
 		<contentId>10011</contentId>
 		<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 		<genres>Global Issues</genres>
 		<runtime>468</runtime>
 	</item>	
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/RobHopkins.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/RobHopkins.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/RobHopkins.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/RobHopkins.jpg">
 		<title>Rob Hopkins: Transition to a world without oil</title>
 		<contentId>10012</contentId>
 		<contentType>Talk</contentType>
@@ -34,7 +34,7 @@
 		<genres>Global Issues</genres>
 		<runtime>1000</runtime>
 	</item>
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/JuanEnriquez.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JuanEnriquez.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JuanEnriquez.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JuanEnriquez.jpg">
                 <title>Juan Enriquez wants to grow energy</title>
                 <contentId>10013</contentId>
                 <contentType>Talk</contentType>
@@ -49,7 +49,7 @@
                 <genres>Global Issues</genres>
                 <runtime>1088</runtime>
         </item>
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/RachelPike.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/RachelPike.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/RachelPike.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/RachelPike.jpg">
                 <title>Rachel Pike: The science behind a climate headline</title>
                 <contentId>10014</contentId>
                 <contentType>Talk</contentType>

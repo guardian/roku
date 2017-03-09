@@ -4,7 +4,7 @@
 	<resultLength>3</resultLength>
 	<!-- endIndex  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>3</endIndex>
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/BenjaminZander.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/BenjaminZander.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/BenjaminZander.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/BenjaminZander.jpg">
 		<title>Benjamin Zander on music and passion</title>
 		<contentId>10041</contentId>
 		<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 		<genres>Inspiration</genres>
 		<runtime>1246</runtime>
 	</item>	
-	<item sdImg="https://devtools.web.roku.com/videoplayer/images/CynthiaSchneider.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/CynthiaSchneider.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/CynthiaSchneider.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/CynthiaSchneider.jpg">
 		<title>Cynthia Schneider: The surprising spread of "Idol" TV</title>
 		<contentId>10042</contentId>
 		<contentType>Talk</contentType>
@@ -34,7 +34,7 @@
 		<genres>Inspiration</genres>
 		<runtime>338</runtime>
 	</item>
-        <item sdImg="https://devtools.web.roku.com/videoplayer/images/JulianTreasure.jpg" hdImg="https://devtools.web.roku.com/videoplayer/images/JulianTreasure.jpg">
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JulianTreasure.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JulianTreasure.jpg">
                 <title>Julian Treasure: The 4 ways sound affects us</title>
                 <contentId>10043</contentId>
                 <contentType>Talk</contentType>

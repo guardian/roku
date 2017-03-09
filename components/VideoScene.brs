@@ -19,7 +19,7 @@ sub init()
   m.array = invalid
 
   m.UriHandler  = createObject("roSGNode","UriHandler")
-  url = "https://devtools.web.roku.com/videoplayer/xml/categories.xml"
+  url = "https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/categories.xml"
   makeRequest({}, url, "GET", 0, "")
   m.UriHandler.observeField("content","onContentSet")
   m.UriHandler.observeField("categorycontent","onCategoryContentSet")
