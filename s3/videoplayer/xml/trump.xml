@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>4</resultLength>
+	<resultLength>3</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>4</endIndex>
-	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JimFallon.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/JimFallon.jpg">
-		<title>Jim Fallon: Exploring the mind of a killer</title>
+	<endIndex>3</endIndex>
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Spicer.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Spicer.jpg">
+		<title>Spicer's confusing response to Trump investigation question</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -13,14 +13,14 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://video.ted.com/talks/podcast/JimFallon_2009_480.mp4</streamUrl>
+			<streamUrl>https://cdn.theguardian.tv/mainwebsite/2017/03/09/170309spicer2_desk.mp4</streamUrl>
 		</media>
-		<synopsis>Psychopathic killers are the basis for some must-watch TV, but what really makes them tick? Neuroscientist Jim Fallon talks about brain scans and genetic analysis that may uncover the rotten wiring in the nature (and nurture) of murderers. In a too-strange-for-fiction twist, he shares a fascinating family history that makes his work chillingly personal.</synopsis>
-		<genres>Clip</genres>
-		<runtime>1260</runtime>
+		<synopsis>White House press secretary Sean Spicer is asked at a press briefing on Wednesday whether President Donald Trump is the target of a counterintelligence investigation.</synopsis>
+		<genres>News</genres>
+		<runtime>120</runtime>
 	</item>	
-	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DanGilbert.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/DanGilbert.jpg">
-		<title>Dan Gilbert asks, Why are we happy?</title>
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/EPA.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/EPA.jpg">
+		<title>Head of EPA denies carbon dioxide causes global warming</title>
 		<contentId>10002</contentId>
 		<contentType>Talk</contentType>
 		<contentQuality>SD</contentQuality>
@@ -28,14 +28,14 @@
 		<media>
 			<streamQuality>SD</streamQuality>
 			<streamBitrate>1500</streamBitrate>
-			<streamUrl>http://video.ted.com/talks/podcast/DanGilbert_2004_480.mp4</streamUrl>
+			<streamUrl>https://cdn.theguardian.tv/mainwebsite/2017/03/09/170309ScottPruitt_desk.mp4</streamUrl>
 		</media>
-		<synopsis>Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness.</synopsis>
-		<genres>Technology</genres>
-		<runtime>1280</runtime>
+		<synopsis>Scott Pruitt denied carbon dioxide was a primary contributor to global warming despite widespread agreement in the scientific community.</synopsis>
+		<genres>News</genres>
+		<runtime>120</runtime>
 	</item>	
-        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/VSRamachandran.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/VSRamachandran.jpg">
-		<title>VS Ramachandran on your mind</title>
+        <item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Healthcare.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Healthcare.jpg">
+		<title>‘It’ll be just like Game of Thrones’: TV hosts on Trump's health bill</title>
                 <contentId>10003</contentId>
                 <contentType>Talk</contentType>
                 <contentQuality>SD</contentQuality>
@@ -43,10 +43,10 @@
                 <media>
                         <streamQuality>SD</streamQuality>
                         <streamBitrate>1500</streamBitrate>
-                        <streamUrl>http://video.ted.com/talks/podcast/VilayanurRamachandran_2007_480.mp4</streamUrl>
+                        <streamUrl>https://cdn.theguardian.tv/mainwebsite/2017/02/16/170216chatshowFlynn_desk.mp4</streamUrl>
                 </media>
-                <synopsis>Vilayanur Ramachandran tells us what brain damage can reveal about the connection between celebral tissue and the mind, using three startling delusions as examples.</synopsis>
-                <genres>Technology</genres>
-                <runtime>1418</runtime>
+                <synopsis>Late-night TV hosts in the US have been giving their take on the past week of Donald Trump’s administration.</synopsis>
+                <genres>News</genres>
+                <runtime>240</runtime>
         </item>
 </feed>
