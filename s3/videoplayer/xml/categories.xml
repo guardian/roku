@@ -4,17 +4,17 @@
 	  <!-- banner_ad: optional element which displays an at the top level category screen -->
 	  <banner_ad sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/missing.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/missing.png"/>
 	  
-	<category title="News" description="The latest news." sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Technology.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Technology.png">
+	<category title="News" description="The latest news" sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Technology.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Technology.png">
 		<categoryLeaf title="Trump" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/trump.xml"/>
 		<categoryLeaf title="Budget" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/budget.xml" />
 	</category>
 
-	<category title="Sport" description="Award winning coverage." sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Entertainment.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Entertainment.png">
+	<category title="Sport" description="Award winning coverage" sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Entertainment.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Entertainment.png">
 		<categoryLeaf title="Football" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/football.xml" />
 		<categoryLeaf title="Cricket" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/cricket.xml" />
 	</category>
 
-	<category title="Lifestyle" description="Own the weekend." sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Design.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Design.png">
+	<category title="Lifestyle" description="Own the weekend" sd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Design.png" hd_img="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/TED_Design.png">
 		<categoryLeaf title="Fashion" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/fashion.xml"/>
 		<categoryLeaf title="Lifestyle" description="" feed="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/xml/lifestyle.xml" />
 	</category>
