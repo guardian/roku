@@ -5,7 +5,7 @@
     <RegistryTask id="RegistryTask"/>
 
     <Rectangle
-      color="#161616"
+      color="#333333"
       width="1920"
       height="1080"
       opacity=".6"

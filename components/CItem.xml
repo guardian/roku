@@ -22,7 +22,7 @@
       sub Init()
         m.Poster = m.top.findNode("poster")
         m.Label = m.top.findNode("label")
-        m.Label.color = "#383838"
+        m.Label.color = "#ffffff"
       end sub
 
       sub itemContentChanged()
