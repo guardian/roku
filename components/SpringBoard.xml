@@ -18,7 +18,7 @@
       </LabelList>
 
       <Rectangle
-        color="#FFFFFF"
+        color="#111111"
         width="400"
         height="300"
         translation="[293,243]"
@@ -32,12 +32,14 @@
 
       <Label
         id="CategoryLabel"
+        color="#FFFFFF"
         font="font:LargeBoldSystemFont"
         translation="[300, 600]" />
 
       <Label
         id="Details"
         width="1300"
+        color="#FFFFFF"
         font="font:MediumBoldSystemFont"
         text="PUT DETAILS TEXT HERE"
         wrap="true"
@@ -45,6 +47,7 @@
 
       <Label
         id="RuntimeLabel"
+        color="#FFFFFF"
         text="Video Length:"
         font="font:LargeBoldSystemFont"
         translation="[300,875]" />

@@ -12,8 +12,8 @@
       translation="[0,0]" />
 
     <Overhang
-      showClock="true"
-      clockColor="0xFFFFFF"
+      showClock="false"
+      clockColor="0x161616"
       logoUri="pkg:/images/Overhang_Logo_HD.png"
       backgroundUri="pkg:/images/Overhang_Background_SD.png"/>
 
