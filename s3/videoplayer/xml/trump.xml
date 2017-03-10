@@ -4,7 +4,7 @@
 	<resultLength>3</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>3</endIndex>
-	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Spicer.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Spicer.jpg">
+	<item sdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/SpicerThumb.jpg" hdImg="https://s3-eu-west-1.amazonaws.com/guardian-roku-hack/videoplayer/images/Spicer.jpg">
 		<title>Spicer's confusing response to Trump investigation question</title>
 		<contentId>10001</contentId>
 		<contentType>Talk</contentType>
