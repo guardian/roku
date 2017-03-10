@@ -10,15 +10,15 @@
         vertFocusAnimationStyle="fixedFocusWrap"
         translation="[800,325]"
         itemSize="[600,48]"
-        color="#222222"
-        focusedColor="#222222">
+        color="#ffffff"
+        focusedColor="#ffffff">
         <ContentNode id="Labels" role="content">
           <ContentNode title="Play from start"/>
         </ContentNode>
       </LabelList>
 
       <Rectangle
-        color="#111111"
+        color="#ffffff"
         width="400"
         height="300"
         translation="[293,243]"
