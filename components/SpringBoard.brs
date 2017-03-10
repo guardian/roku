@@ -12,10 +12,10 @@ sub init()
   m.CategoryLabel = m.top.findNode("CategoryLabel")
   m.RuntimeLabel  = m.top.findNode("RuntimeLabel")
   m.Title.font.size = 40
-  m.CategoryLabel.color = "#333333"
-  m.Title.color = "#333333"
-  m.Details.color = "#444444"
-  m.RuntimeLabel.color = "#333333"
+  m.CategoryLabel.color = "#FFFFFF"
+  m.Title.color = "#FFFFFF"
+  m.Details.color = "#FFFFFF"
+  m.RuntimeLabel.color = "#FFFFFF"
 end sub
 
 sub onContentChange(event as object)
