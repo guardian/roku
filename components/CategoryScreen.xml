@@ -12,7 +12,7 @@
       numRows="4"
       rowLabelOffset="[[0,15]]"
       rowLabelFont="font:LargeBoldSystemFont"
-      rowLabelColor="0x333333"
+      rowLabelColor="0xFFFFFF"
       showRowCounter="[true]"
       showRowLabel="[true]"
       translation="[125,200]"/>
