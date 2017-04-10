@@ -1,5 +1,13 @@
 
-**
-Sync Command
+The Guardian on Roku
+====================
 
-aws s3 sync . s3://guardian-roku-hack --profile=developerPlayground --acl public-read
+Watch your favourite Guardian videos directly on your Roku device.
+
+This demo was built for the Guardian Hackday March 2017
+
+
+
+
+
+
