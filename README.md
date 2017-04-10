@@ -9,7 +9,7 @@ This demo was built for the Guardian Hackday March 2017
 Screenshots
 -----------
 
-[Roku Menu](/docs/images?raw=true "Roku Menu")
+[Roku Menu](/docs/images/index.jpg?raw=true "Roku Menu")
 
 
 
